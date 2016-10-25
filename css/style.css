@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: #F0FFFF;
+}
+p {
+    font-size: 20px;
+}
+#instructions {
+    text-align: center;
+    background-color: #DCDCDC;
+}
